@@ -11,10 +11,6 @@ To run the image analysis code, navigate to the directory "image_analysis" and s
 
 The code contains a class file for a MATLAB object.
 
-## Simulation
-
-The simulation code is written in Mathematica. The notebook file can be found in the directory "simulation".
-
 ## Author
 
 This code was written by Dr. Jian Wei Tay (jian.tay@colorado.edu)
